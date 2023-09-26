@@ -9,7 +9,7 @@ build/
 .mvn
 mvnw
 mvnw.cmd
-data
+
 
 ### Gradle ###
 build.gradle.kts
